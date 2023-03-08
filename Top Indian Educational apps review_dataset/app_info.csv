@@ -1,0 +1,12 @@
+name,title,minInstalls,score,ratings,reviews,size,androidVersion,genreId,released,updated,version,appId
+WhiteHatJr,WhiteHat Jr: Book FREE Trial Class Now,1000000,3.7237036,12682,6482,32M,5.0,EDUCATION,"Sep 11, 2020",1601010278,1.5.2,com.whitehatjr
+Unacademy,Unacademy Learning App,10000000,4.194891,556461,192168,Varies with device,4.3,EDUCATION,"Feb 15, 2017",1602257855,5.27.1040,com.unacademyapp
+WifiStudy,"wifistudy - #1 Exam Preparation, Free Mock Tests",1000000,4.309553,137081,61816,Varies with device,4.2,EDUCATION,"Dec 11, 2014",1599554732,Varies with device,com.wifistudy.onlinetest
+KhanAcademy,Khan Academy,10000000,4.397173400000001,133720,48253,Varies with device,Varies,EDUCATION,"Sep 22, 2015",1601414820,Varies with device,org.khanacademy.android
+Byjus,BYJU'S – The Learning App,50000000,4.440033000000001,1436720,672082,87M,5.0,EDUCATION,"Jul 6, 2015",1600688970,7.1.0.9005,com.byjus.thelearningapp
+Vedantu,"Vedantu: LIVE Learning App | Class 1-12, JEE, NEET",10000000,4.219771,232650,117145,Varies with device,5.0,EDUCATION,"Mar 8, 2019",1601485384,1.7.5,com.vedantu.app
+Udemy,Udemy - Online Courses,10000000,4.3658895,251093,87319,35M,6.0,EDUCATION,"Jan 14, 2014",1602426634,6.9.1,com.udemy.android
+Extramarks,Extramarks – The Learning App,5000000,4.174786,114000,62232,65M,4.4,EDUCATION,"Sep 5, 2015",1602432069,6.4.3.11,com.Extramarks.Smartstudy
+Gradeup,"Exam Preparation App: Free Mock Test, Live Classes",10000000,4.5546517,618801,211413,20M,5.0,EDUCATION,"Sep 6, 2015",1601619074,9.53,co.gradeup.android
+Toppr,Toppr - Learning App for Class 5 - 12,10000000,4.005949,145027,66629,25M,4.2,EDUCATION,"Aug 28, 2013",1602263809,6.5.45,haygot.togyah.app
+TestBook,Exam Preparation App: Free Mock Tests | Live Class,5000000,4.396315599999999,176892,68824,Varies with device,Varies,EDUCATION,"Jun 29, 2015",1602249153,Varies with device,com.testbook.tbapp
